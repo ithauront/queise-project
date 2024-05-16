@@ -12,4 +12,4 @@ html, body, #root {
     display: flex;
     flex-direction: column;
   }
-`
+`;
